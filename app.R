@@ -454,7 +454,7 @@ body {
          expression across all 12 stages for the queried gene."
       )),
       tags$div(id = "reference-block",
-        tags$strong("Image reference"),
+        tags$strong("Data Source:"),
         HTML("Awada R, Lepelley M, Breton D, Charpagne A, Campa C, Berry V, Georget F,
           Breitler JC, L&eacute;ran S, Djerrab D, Martinez-Seidel F, Descombes P,
           Crouzillat D, Bertrand B, Etienne H. Global transcriptome profiling reveals
